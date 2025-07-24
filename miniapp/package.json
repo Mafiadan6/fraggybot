@@ -1,0 +1,17 @@
+{
+  "name": "grament-miniapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ton-connect": "^0.0.40",
+    "ton-connect-ui": "^0.0.40"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+} 
